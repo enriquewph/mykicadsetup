@@ -1,0 +1,15 @@
+[submodule "teardrops"]
+	path = teardrops
+	url = https://github.com/NilujePerchut/kicad_scripts.git
+[submodule "color-schemes"]
+	path = color-schemes
+	url = https://github.com/pointhi/kicad-color-schemes.git
+[submodule "interactive-html-bom"]
+	path = interactive-html-bom
+	url = https://github.com/openscopeproject/InteractiveHtmlBom.git
+[submodule "diff"]
+	path = diff
+	url = https://github.com/Gasman2014/KiCad-Diff.git
+[submodule "RF-tools-KiCAD"]
+	path = RF-tools-KiCAD
+	url = https://github.com/easyw/RF-tools-KiCAD.git
