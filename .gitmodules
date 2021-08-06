@@ -13,3 +13,6 @@
 [submodule "RF-tools-KiCAD"]
 	path = RF-tools-KiCAD
 	url = https://github.com/easyw/RF-tools-KiCAD.git
+[submodule "kicost"]
+	path = kicost
+	url = https://github.com/hildogjr/KiCost.git
